@@ -1,0 +1,14 @@
+.idea/
+project/project
+project/target
+project/META-INF
+target/
+
+~/*
+*/_remote.repositories
+
+*.class
+
+*.svn
+classes/
+out/
